@@ -1,8 +1,8 @@
-/* /js/scripts.js in github Silus-Counter-Cruz making silus-counter-Cruz.bauska.org */
-/* Nov 28, 2025 = 5,000 (xx hours approx)
+/* /js/scripts.js of github Silus-Counter-Romy for Silus-Counter-Romy.bauska.org */
+/* July 16, 2026 = 0 (0 hours approx)
 */
 let counter = 0;
-/* was 5,000 Nov 28, 2025
+/* 1st xx,xxx mmm dd, yyyy
   all times are approximate. */
 
 function count() {
