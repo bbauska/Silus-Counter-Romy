@@ -1,6 +1,6 @@
 {
-  "name": "Silus Says 'Romy' 300,000",
-  "short_name": "Silus 'Romy'";
+  "name": "Silus Says 'Romy' 300,000 Times",
+  "short_name": "Silus Says 'Romy'",
   "start_url": "index.html",
   "display": "standalone", 
   "icons": [
